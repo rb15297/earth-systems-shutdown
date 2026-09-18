@@ -1,1 +1,3 @@
-Student site only — overlay upgrade deploy from tpt_product6.
+# Earth Systems Shutdown — student site
+
+Self-paced escape room for classroom use. Teacher materials are not hosted here.
